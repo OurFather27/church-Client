@@ -50,5 +50,5 @@ app.use("/api/users", userRoute);
 app.use("/api/posts", postRoute);
 
 app.listen(8800, () => {
-  console.log("Church BackEnd server is running!");
+  console.log(" passion church server is running!");
 });
